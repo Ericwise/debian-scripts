@@ -16,11 +16,6 @@ echo
 echo "domainOne = $domain1"
 echo
 
-echo "Please enter your domain2."
-read domain2
-echo 
-echo "domainTwo = $domain2"
-echo
 
 echo "Please enter your ipaddress."
 read ipnum
@@ -30,10 +25,10 @@ echo
 
 mkdir -p /var/www/blog/html
 chown -R $USER:$USER /var/www/blog/html
-chmmod -R 755 /var/www
+chmod -R 755 /var/www
 
 cat > /etc/nginx/conf.d/blog.conf <<-EOF
-{
+
 server {
 	listen 80;
 	listen [::]:80;
@@ -42,23 +37,23 @@ server {
 	index index.html index.htm index.nginx-debian.html;
 
 
-	server_name $domain1 $domain2 $ipnum;
+	server_name $domain1 $ipnum;
 
 	location / {
 	try_files $uri $uri/ =404;
 	}
 }
-
-}
 EOF
+
+
 
 cat >> /etc/hosts <<-EOF
-{
-$ipnum	$domain1
-$ipnum	$domain2
 
-}
+$ipnum	$domain1
+
 EOF
+
+
 
 service nginx restart
 
