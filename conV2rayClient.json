@@ -1,0 +1,27 @@
+{
+  "inbound": {
+    "port": 3120,
+    "protocol": "http",
+    "settings": {
+	    "auth":"noauth"    }
+  },
+  "outbound": {
+    "protocol": "vmess",
+    "settings": {
+    "vnext": 
+          [
+		  {
+	    "address":"45.76.50.216",
+	    "port":22006,
+	    "users": 
+	      [ 
+		    {   "id":"f0b21c20-ec3a-488e-8109-66fae66bc1dd",
+		    "alterID":64
+		    }
+	    ]
+    }
+    ]
+    }
+  }
+    
+}
