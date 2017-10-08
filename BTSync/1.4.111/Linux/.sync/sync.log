@@ -1,0 +1,10 @@
+﻿platform: Linux 4.13.5-041305-generic #201710050600 SMP Thu Oct 5 10:13:59 UTC 2017 i686
+version: 1.4.111
+[20171008 05:03:04.220] total physical memory -1 max disk cache 2097152
+[20171008 05:03:04.221] Using IP address 45.76.50.216
+[20171008 05:03:04.227] My PeerID: 10BA245DD89303CB67EAB51986904E5074BF1599
+[20171008 05:03:08.254] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171008 05:03:13.262] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171008 05:03:16.266] NAT-PMP: Unable to map port with NAT-PMP.
+[20171008 05:03:18.269] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171008 05:03:23.277] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
