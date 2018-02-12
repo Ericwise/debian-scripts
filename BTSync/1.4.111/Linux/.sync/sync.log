@@ -4316,3 +4316,133 @@ version: 1.4.111
 [20171023 04:26:32.354] UPnP: Could not map UPnP Port on this pass, retrying.
 [20171023 04:26:37.362] UPnP: Could not map UPnP Port on this pass, retrying.
 [20171023 04:26:42.369] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 04:46:28.923] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 04:46:33.930] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 04:46:38.937] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 04:46:43.943] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 05:06:30.648] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:06:35.655] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:06:40.661] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:06:45.668] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 05:26:31.248] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:26:36.255] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:26:41.261] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:26:46.268] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 05:46:32.788] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:46:37.794] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:46:42.801] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 05:46:47.807] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 06:06:33.329] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:06:38.337] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:06:43.344] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:06:48.350] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 06:26:34.882] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:26:39.889] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:26:44.895] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:26:49.900] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 06:46:35.492] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:46:40.499] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:46:45.510] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 06:46:50.517] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 07:06:37.064] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:06:42.071] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:06:47.077] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:06:52.083] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 07:26:38.643] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:26:43.649] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:26:48.656] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:26:53.663] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 07:46:39.225] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:46:44.232] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:46:49.239] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 07:46:54.245] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 08:06:40.801] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:06:45.807] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:06:50.813] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:06:55.820] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 08:26:41.384] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:26:46.391] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:26:51.398] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:26:56.404] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 08:46:42.963] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:46:47.970] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:46:52.977] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 08:46:57.984] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 09:06:44.586] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:06:49.593] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:06:54.599] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:06:59.605] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 09:26:45.168] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:26:50.175] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:26:55.182] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:27:00.188] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 09:46:46.716] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:46:51.721] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:46:56.728] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 09:47:01.735] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 10:06:47.230] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:06:52.236] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:06:57.242] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:07:02.250] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 10:26:48.779] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:26:53.785] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:26:58.793] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:27:03.799] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 10:46:49.381] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:46:54.388] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:46:59.395] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 10:47:04.401] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 11:06:50.986] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:06:55.993] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:07:01.000] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:07:06.006] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 11:26:52.579] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:26:57.587] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:27:02.594] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:27:07.601] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 11:46:53.199] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:46:58.207] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:47:03.214] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 11:47:08.221] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 12:06:54.806] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:06:59.812] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:07:04.819] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:07:09.827] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 12:26:55.371] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:27:00.376] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:27:05.381] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:27:10.386] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 12:46:56.924] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:47:01.931] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:47:06.936] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 12:47:11.943] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 13:06:58.495] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:07:03.502] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:07:08.511] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:07:13.518] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 13:26:59.104] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:27:04.111] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:27:09.117] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:27:14.124] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 13:47:00.711] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:47:05.718] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:47:10.726] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 13:47:15.733] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 14:07:01.320] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:07:06.327] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:07:11.333] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:07:16.341] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 14:27:02.922] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:27:07.927] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:27:12.934] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:27:17.940] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 14:47:04.489] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:47:09.496] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:47:14.504] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 14:47:19.511] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 15:07:05.091] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 15:07:10.097] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 15:07:15.105] UPnP: Could not map UPnP Port on this pass, retrying.
+[20171023 15:07:20.112] UPnP: Unable to map port 45.76.50.216:27382 with UPnP.
+[20171023 15:25:57.639] Received shutdown request via signal 15
+[20171023 15:25:57.656] Shutdown. Saving config sync.dat
