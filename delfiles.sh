@@ -15,12 +15,12 @@ do
 	case $OPERATION in
 		1)
 			read -p "Please input file name:" filename
-			echo "filename = ${filename}"
+			echo "filename = $FILENAME"
 			echo
             read -p "Please input file size:" filesize
-            echo "filesize = ${filesize}"
+            echo "filesize = $FILESIZE"
             echo
-            find . -size -${filesize} -type f -iname ${filename} -delete
+            find . -size -$FILESIZE -type f -iname $FILENAME -delete
 	        echo "done"
 			;;
 		2)  
@@ -28,11 +28,11 @@ do
 			echo "done"
 			;;
 	esac
-read -p "Does continue ?(y,n)" confirm
-echo "confirm = ${confirm}"
+read -p "Does continue ?(y,n)" RESPONSE
+echo "confirm = $RESPONSE"
 echo
-if [ $confirm = "n" ];then
+if [ $RESPONSE = "n" ];then
 	break
 fi
-done
+echo "done"
 exit 0 
