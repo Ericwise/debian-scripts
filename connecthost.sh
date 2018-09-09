@@ -20,7 +20,7 @@ do
             ;;
         2)
             USERNAME="dzc"
-            PORT="4000"
+            PORT="7001"
             ;;
         3)
             USERNAME="dzc"
