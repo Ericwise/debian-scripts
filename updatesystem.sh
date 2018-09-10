@@ -14,7 +14,7 @@ do
 			echo "done"
 			;;
 		2)
-	                yes| proxychains pacman -Suu ;
+	                yes| proxychains pacman -Syuu ;
 	                echo "done"
 			;;
 		esac
